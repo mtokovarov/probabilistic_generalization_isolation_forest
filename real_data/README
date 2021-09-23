@@ -1,0 +1,3 @@
+The folder contains the datasets used for testing the generalized model.
+14 datasets were used in the research. The folder contains 13 datasets.
+The creditcard dataset could not be loaded due to the size greater than 25 MB. It can be downloaded from https://www.kaggle.com/mlg-ulb/creditcardfraud.
