@@ -1,1 +1,3 @@
-The folder contains the data that were artificially created with the use of DatasetGenerator class defined in generatingDatasets.py file
+The folder contains the data that were artificially created with the use of DatasetGenerator class defined in generatingDatasets.py file.
+As Github allows to upload only the files of size not greater than 25 MB, only first 4 files could be uploaded. The files contain 2,3,4,5 - dimensional data.
+In order to obtain the data of higher dimensionality one can use the DatasetGenerator class.
