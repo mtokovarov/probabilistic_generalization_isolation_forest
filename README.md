@@ -7,6 +7,6 @@ artificial_data - artificially generated data applied in the experiment
 
 real_data - real datasets applied in the experiment
 
-isolation_forest - core class definitions 
+isolation_forest - core class definitions
 
 
