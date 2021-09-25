@@ -15,4 +15,5 @@ test_generalized_real_data.py - example of testing PGIF on artificially real dat
 
 utils.py - auxiliary functions: saving, loading
 
+generating_datasets.py - generation of artificial datasets with outliers
 
